@@ -1,4 +1,4 @@
-C++ Clothing Store Management System
+CLOTH BUZZ    (C++ Clothing Store Management System) 
 
 A console-based clothing store management system developed in C++ as a first-semester programming project.
 
